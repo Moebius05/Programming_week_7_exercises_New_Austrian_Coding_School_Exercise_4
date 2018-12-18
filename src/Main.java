@@ -20,6 +20,8 @@ public class Main {
         System.out.println(ZahlenZuArrays.ausZahlenWerdenArrays(zahl01));
 
 
+        
+
 
     }
 }
